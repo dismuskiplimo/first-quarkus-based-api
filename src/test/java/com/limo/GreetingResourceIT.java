@@ -1,4 +1,4 @@
-package org.acme;
+package com.limo;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
